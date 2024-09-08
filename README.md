@@ -14,7 +14,7 @@ The Dog Breed Detection App is a simple Streamlit application that uses a pre-tr
 
 ## Demo
 
-You can see a live demo of the app [here]
+You can see a live demo of the app https://dogbreeddetectiongihanpramod.streamlit.app/
 
 ## Installation
 
