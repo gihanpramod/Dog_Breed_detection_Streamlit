@@ -23,7 +23,7 @@ To run the Dog Breed Detection App locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-  https://github.com/gihanpramod/Dog_Breed_detection_Streamlit.git
+   https://github.com/gihanpramod/Dog_Breed_detection_Streamlit.git
 
 2. Change the directory to the project folder:
 
