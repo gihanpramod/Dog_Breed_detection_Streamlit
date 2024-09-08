@@ -1,4 +1,4 @@
-# Dog Breed Detection App
+# Dog Breed Classifier
 
 
 
@@ -10,10 +10,11 @@ The Dog Breed Detection App is a simple Streamlit application that uses a pre-tr
 
 - **Breed Prediction**: Upload a picture of your dog, and the app will predict the most likely breed from a list of 70 different breeds.
 - **Easy to Use**: The user-friendly interface makes it simple for anyone to use.
+- **Easy can see Graph & Accuracy**
 
 ## Demo
 
-You can see a live demo of the app [here](https://dogbreeddetection.streamlit.app/).
+You can see a live demo of the app [here]
 
 ## Installation
 
@@ -22,12 +23,12 @@ To run the Dog Breed Detection App locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/harichselvamc/Dog_Breed_detection
+  https://github.com/gihanpramod/Dog_Breed_detection_Streamlit.git
 
 2. Change the directory to the project folder:
 
    ```bash
-    cd Dog_Breed_detection
+    cd Dog_Breed_detection_Streamlit_ITBIN_2110_0038
    
 3. Install the required dependencies using pip:
 
@@ -43,27 +44,6 @@ To run the Dog Breed Detection App locally, follow these steps:
 ### The app will open in your web browser, allowing you to upload dog images for classification.
 
 
-
-
-
-# Folder Structure
-### The model has been trained on a dataset organized in the following folder structure:
-
-    
-        ./dog
-        │
-        └── Afghan
-        │   ├── 001.jpg
-        │   ├── 002.jpg
-        │   ...
-        │
-        └── African Wild Dog
-        │   ├── 001.jpg
-        │   ├── 002.jpg
-        │   ...
-        ...
-        
-  Each breed has its own folder containing multiple images.
 
 
 # Model Details
